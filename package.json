@@ -1,0 +1,17 @@
+{
+  "name": "digi-bank-automation",
+  "version": "1.0.0",
+  "description": "Digi Bank Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KS",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
